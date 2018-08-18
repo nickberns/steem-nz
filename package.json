@@ -1,0 +1,24 @@
+{
+  "name": "teamnz-bot-v3.0.0",
+  "version": "3.0.0",
+  "description": "bot for teamnz",
+  "main": "teamnz.js",
+  "scripts": {
+    "start": "node ./teamnz.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolaiBn/tnz-bot.git"
+  },
+  "author": "cryptonik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NikolaiBn/tnz-bot.git"
+  },
+  "homepage": "https://github.com/NikolaiBn/tnz-bot.git#readme",
+  "dependencies": {
+    "seedrandom": "^2.4.3",	
+    "steem": "^0.7.1"
+  }
+}
