@@ -1,1 +1,1 @@
-A curation Bot for TeamNZ.
+#Steem NZ
